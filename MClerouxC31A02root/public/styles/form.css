@@ -1,0 +1,100 @@
+body {
+    background-color: #e5ffde;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: #000000;
+}
+
+header {
+    padding-top: 20px;
+    font-family: 'Yeseva One', cursive;
+}
+
+main {
+    margin: auto;
+    padding: 10px;
+    border: solid 1px #000;
+    background-color: #fff;
+}
+
+select {
+    width: 147px;
+}
+
+label {
+    display:block;
+    margin: 7px 0 2px 0;
+}
+
+input[type="text"], select{
+    width: 60%;
+}
+
+select {
+    padding: 3px;
+}
+
+input[type="submit"] {
+    padding: 5px;
+    margin-top: 5px;
+    border-radius: 10%;
+    background-color: #d9fff8;
+    border: 2px  solid darkgrey;
+    color: #000;
+    font-size: 0.8em;
+}
+
+@media only screen and (min-width: 768px) {
+
+    main {
+        margin: auto;
+        width: 85%;
+        height: 275px;
+        border: solid 1px #000;
+        border-radius: 10px;
+        background-color: #fff;
+        box-shadow: 5px 13px 19px -3px rgba(0,0,0,0.47);
+    }
+
+    label {
+        display: inline-block;
+        float: left;
+        clear: left;
+        width: 40%;
+        margin: 5px;
+        text-align: right;
+    }
+
+    input, select {
+        display: inline-block;
+        float: left;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
+    input[type="text"]{
+        width: 200px;
+    }
+
+    select {
+        width: 206px;
+    }
+
+    input[type="submit"] {
+        border-radius: 0;
+    }
+
+    input[type="submit"]:hover {
+        background-color: #ffbf00;
+        color: #fff;
+        border: 1px solid #ffbf00;
+    }
+
+}
+
+@media only screen and (min-width: 1200px){
+    label {
+        width: 43%;
+    }
+
+}

@@ -1,0 +1,49 @@
+doctype html
+html(lang="en")
+    head
+        title #{sSymbol}
+        meta(name='viewport' content='width=device-width, initial-scale=1')
+        meta(charset='UTF-8')
+        style(type='text/css').
+
+            body {
+                font-family: calibri, verdana, sans-serif;
+                background-color: #e5ffde;
+                text-align: center;
+            }
+
+            .lighter {
+                color: #696969;
+            }
+
+            header {
+                margin-top: 15%;
+                margin-bottom: 20px;
+            }
+
+            main {
+                width: 80%;
+                margin: auto;
+                border: solid 2px #000;
+                background-color: #fff;
+                padding: 0px 20px 30px 20px;
+                box-shadow: 5px 13px 19px -3px rgba(0,0,0,0.47);
+            }
+
+            .underline {
+                text-decoration: underline;
+            }
+    body
+        div#content
+            header
+                h1 Stock Matching Your Query: #{query}
+            main
+                h3.lighter #{sSymbol}
+                h3 #{sName}
+                p #[span.underline Industry]: #{sIndustry}
+                p #[span.underline Market Value]: #{sMarket}
+                p #[span.underline Rating]: #{rating}
+        footer
+
+
+

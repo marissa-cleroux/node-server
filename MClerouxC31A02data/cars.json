@@ -1,0 +1,1801 @@
+[{
+        "carId": 1,
+        "model": "Grand Prix",
+        "make": "Pontiac",
+        "year": 1986,
+        "VIN": "WBAEA5C53AC194804",
+        "cost": "26670.95",
+        "condition": "very good"
+    },
+    {
+        "carId": 2,
+        "model": "Avalon",
+        "make": "Toyota",
+        "year": 2011,
+        "VIN": "1FMEU8FE7AU303730",
+        "cost": "46086.61",
+        "condition": "fair"
+    },
+    {
+        "carId": 3,
+        "model": "Elantra",
+        "make": "Hyundai",
+        "year": 2004,
+        "VIN": "3GYFNGE39ES370364",
+        "cost": "29443.27",
+        "condition": "fair"
+    },
+    {
+        "carId": 4,
+        "model": "Accord",
+        "make": "Honda",
+        "year": 1988,
+        "VIN": "JTHBL5EF6E5141965",
+        "cost": "40676.13",
+        "condition": "poor"
+    },
+    {
+        "carId": 5,
+        "model": "Sable",
+        "make": "Mercury",
+        "year": 2008,
+        "VIN": "WAUEFAFLXBA164118",
+        "cost": "26862.82",
+        "condition": "poor"
+    },
+    {
+        "carId": 6,
+        "model": "Charger",
+        "make": "Dodge",
+        "year": 2012,
+        "VIN": "5FPYK1F54EB785077",
+        "cost": "7874.15",
+        "condition": "good"
+    },
+    {
+        "carId": 7,
+        "model": "Camaro",
+        "make": "Chevrolet",
+        "year": 1969,
+        "VIN": "3VW1K7AJ2DM254999",
+        "cost": "11205.60",
+        "condition": "excellent"
+    },
+    {
+        "carId": 8,
+        "model": "Voyager",
+        "make": "Plymouth",
+        "year": 1985,
+        "VIN": "1G6DM57T770703580",
+        "cost": "22634.78",
+        "condition": "poor"
+    },
+    {
+        "carId": 9,
+        "model": "Navigator L",
+        "make": "Lincoln",
+        "year": 2010,
+        "VIN": "WBA6A0C5XFD131157",
+        "cost": "10883.93",
+        "condition": "fair"
+    },
+    {
+        "carId": 10,
+        "model": "Forester",
+        "make": "Subaru",
+        "year": 2012,
+        "VIN": "WAUKFAFL9BN144812",
+        "cost": "38694.46",
+        "condition": "very good"
+    },
+    {
+        "carId": 11,
+        "model": "Corvette",
+        "make": "Chevrolet",
+        "year": 2012,
+        "VIN": "4A4AP3AU8EE684916",
+        "cost": "28339.81",
+        "condition": "excellent"
+    },
+    {
+        "carId": 12,
+        "model": "Sorento",
+        "make": "Kia",
+        "year": 2006,
+        "VIN": "1GD02ZCG6EF361661",
+        "cost": "37949.11",
+        "condition": "excellent"
+    },
+    {
+        "carId": 13,
+        "model": "Leganza",
+        "make": "Daewoo",
+        "year": 2001,
+        "VIN": "WAUKF98E86A118440",
+        "cost": "7989.43",
+        "condition": "good"
+    },
+    {
+        "carId": 14,
+        "model": "Catera",
+        "make": "Cadillac",
+        "year": 2000,
+        "VIN": "1G6DL67A580959158",
+        "cost": "23873.12",
+        "condition": "good"
+    },
+    {
+        "carId": 15,
+        "model": "Firebird Trans Am",
+        "make": "Pontiac",
+        "year": 1986,
+        "VIN": "1GYEE437890447688",
+        "cost": "8844.62",
+        "condition": "very good"
+    },
+    {
+        "carId": 16,
+        "model": "Excel",
+        "make": "Mitsubishi",
+        "year": 1987,
+        "VIN": "19XFA1E85AE246501",
+        "cost": "26502.06",
+        "condition": "very good"
+    },
+    {
+        "carId": 17,
+        "model": "M3",
+        "make": "BMW",
+        "year": 2005,
+        "VIN": "1G6DS57V790843672",
+        "cost": "45007.16",
+        "condition": "very good"
+    },
+    {
+        "carId": 18,
+        "model": "MX-5",
+        "make": "Mazda",
+        "year": 2004,
+        "VIN": "SAJWA4DBXDL077281",
+        "cost": "36045.05",
+        "condition": "poor"
+    },
+    {
+        "carId": 19,
+        "model": "Odyssey",
+        "make": "Honda",
+        "year": 2003,
+        "VIN": "5UXKS4C53E0792944",
+        "cost": "27874.32",
+        "condition": "excellent"
+    },
+    {
+        "carId": 20,
+        "model": "Bonneville",
+        "make": "Pontiac",
+        "year": 1967,
+        "VIN": "KMHTC6AD4EU774854",
+        "cost": "26817.99",
+        "condition": "fair"
+    },
+    {
+        "carId": 21,
+        "model": "VUE",
+        "make": "Saturn",
+        "year": 2010,
+        "VIN": "JN1BV7AP0FM259560",
+        "cost": "15728.30",
+        "condition": "excellent"
+    },
+    {
+        "carId": 22,
+        "model": "GTI",
+        "make": "Volkswagen",
+        "year": 2006,
+        "VIN": "JN8AE2KP8D9185920",
+        "cost": "7178.22",
+        "condition": "poor"
+    },
+    {
+        "carId": 23,
+        "model": "Park Avenue",
+        "make": "Buick",
+        "year": 2002,
+        "VIN": "JTHBE1BL7E5915976",
+        "cost": "26215.66",
+        "condition": "very good"
+    },
+    {
+        "carId": 24,
+        "model": "Express 1500",
+        "make": "Chevrolet",
+        "year": 1998,
+        "VIN": "WAULT58E34A379459",
+        "cost": "46655.80",
+        "condition": "good"
+    },
+    {
+        "carId": 25,
+        "model": "Prowler",
+        "make": "Plymouth",
+        "year": 1997,
+        "VIN": "JN1AZ4EH1DM004642",
+        "cost": "48554.42",
+        "condition": "excellent"
+    },
+    {
+        "carId": 26,
+        "model": "Crossfire",
+        "make": "Chrysler",
+        "year": 2007,
+        "VIN": "1D7RV1GP0BS312253",
+        "cost": "25534.28",
+        "condition": "excellent"
+    },
+    {
+        "carId": 27,
+        "model": "RX-8",
+        "make": "Mazda",
+        "year": 2005,
+        "VIN": "WAUHF68P26A267081",
+        "cost": "7909.70",
+        "condition": "very good"
+    },
+    {
+        "carId": 28,
+        "model": "Taurus X",
+        "make": "Ford",
+        "year": 2009,
+        "VIN": "19XFB2E26CE463380",
+        "cost": "15261.24",
+        "condition": "fair"
+    },
+    {
+        "carId": 29,
+        "model": "Mazda6 5-Door",
+        "make": "Mazda",
+        "year": 2006,
+        "VIN": "JTHBE1BL5F1211624",
+        "cost": "34997.69",
+        "condition": "excellent"
+    },
+    {
+        "carId": 30,
+        "model": "911",
+        "make": "Porsche",
+        "year": 2013,
+        "VIN": "1FTWX3B5XAE553241",
+        "cost": "12229.46",
+        "condition": "poor"
+    },
+    {
+        "carId": 31,
+        "model": "LeMans",
+        "make": "Pontiac",
+        "year": 1966,
+        "VIN": "1D7RB1GK5BS740042",
+        "cost": "41844.39",
+        "condition": "excellent"
+    },
+    {
+        "carId": 32,
+        "model": "Town Car",
+        "make": "Lincoln",
+        "year": 1988,
+        "VIN": "WVGAV3AX2EW115069",
+        "cost": "21502.22",
+        "condition": "good"
+    },
+    {
+        "carId": 33,
+        "model": "CR-V",
+        "make": "Honda",
+        "year": 2009,
+        "VIN": "2HNYD28468H803178",
+        "cost": "32138.39",
+        "condition": "good"
+    },
+    {
+        "carId": 34,
+        "model": "Impreza",
+        "make": "Subaru",
+        "year": 2005,
+        "VIN": "JHMZF1D49DS957812",
+        "cost": "11617.76",
+        "condition": "poor"
+    },
+    {
+        "carId": 35,
+        "model": "Insight",
+        "make": "Honda",
+        "year": 2005,
+        "VIN": "2B3CK9CVXAH889987",
+        "cost": "14402.08",
+        "condition": "good"
+    },
+    {
+        "carId": 36,
+        "model": "Skylark",
+        "make": "Buick",
+        "year": 1996,
+        "VIN": "WAULT64B93N367776",
+        "cost": "24424.84",
+        "condition": "very good"
+    },
+    {
+        "carId": 37,
+        "model": "Fiero",
+        "make": "Pontiac",
+        "year": 1988,
+        "VIN": "WAUJC68EX3A075928",
+        "cost": "27114.21",
+        "condition": "good"
+    },
+    {
+        "carId": 38,
+        "model": "Boxster",
+        "make": "Porsche",
+        "year": 1997,
+        "VIN": "1G6KD57Y96U647166",
+        "cost": "33071.29",
+        "condition": "excellent"
+    },
+    {
+        "carId": 39,
+        "model": "200SX",
+        "make": "Nissan",
+        "year": 1996,
+        "VIN": "WAUMF78K59A984930",
+        "cost": "47004.03",
+        "condition": "very good"
+    },
+    {
+        "carId": 40,
+        "model": "Cooper",
+        "make": "MINI",
+        "year": 2008,
+        "VIN": "WA1WMBFE1FD570226",
+        "cost": "46868.01",
+        "condition": "fair"
+    },
+    {
+        "carId": 41,
+        "model": "Sonata",
+        "make": "Hyundai",
+        "year": 2009,
+        "VIN": "JN1CV6EK9EM948072",
+        "cost": "27080.59",
+        "condition": "poor"
+    },
+    {
+        "carId": 42,
+        "model": "MX-3",
+        "make": "Mazda",
+        "year": 1993,
+        "VIN": "WAUKD98P87A342395",
+        "cost": "37057.49",
+        "condition": "poor"
+    },
+    {
+        "carId": 43,
+        "model": "600SEL",
+        "make": "Mercedes-Benz",
+        "year": 1992,
+        "VIN": "19XFA1F31AE000399",
+        "cost": "38922.53",
+        "condition": "fair"
+    },
+    {
+        "carId": 44,
+        "model": "Freelander",
+        "make": "Land Rover",
+        "year": 2011,
+        "VIN": "JTHSE5BCXF5430160",
+        "cost": "21844.60",
+        "condition": "poor"
+    },
+    {
+        "carId": 45,
+        "model": "Safari",
+        "make": "GMC",
+        "year": 2003,
+        "VIN": "2HNYD2H68CH238846",
+        "cost": "22652.58",
+        "condition": "poor"
+    },
+    {
+        "carId": 46,
+        "model": "M5",
+        "make": "BMW",
+        "year": 2000,
+        "VIN": "JH4CL96846C401661",
+        "cost": "38775.05",
+        "condition": "very good"
+    },
+    {
+        "carId": 47,
+        "model": "Explorer",
+        "make": "Ford",
+        "year": 1997,
+        "VIN": "5XXGM4A74DG260329",
+        "cost": "28239.82",
+        "condition": "excellent"
+    },
+    {
+        "carId": 48,
+        "model": "Lucerne",
+        "make": "Buick",
+        "year": 2007,
+        "VIN": "WBAVL1C5XDV355015",
+        "cost": "18906.97",
+        "condition": "fair"
+    },
+    {
+        "carId": 49,
+        "model": "MKS",
+        "make": "Lincoln",
+        "year": 2009,
+        "VIN": "1FMJU1H50AE626644",
+        "cost": "22340.08",
+        "condition": "very good"
+    },
+    {
+        "carId": 50,
+        "model": "3 Series",
+        "make": "BMW",
+        "year": 2011,
+        "VIN": "SCFAD02A66G687016",
+        "cost": "27631.10",
+        "condition": "good"
+    },
+    {
+        "carId": 51,
+        "model": "1500",
+        "make": "GMC",
+        "year": 1996,
+        "VIN": "1C4RJEAG3DC854868",
+        "cost": "49726.24",
+        "condition": "fair"
+    },
+    {
+        "carId": 52,
+        "model": "Continental Flying Spur",
+        "make": "Bentley",
+        "year": 2009,
+        "VIN": "JTHBE1D27E5030553",
+        "cost": "26183.08",
+        "condition": "fair"
+    },
+    {
+        "carId": 53,
+        "model": "Leganza",
+        "make": "Daewoo",
+        "year": 2001,
+        "VIN": "1FTNF2B51AE670327",
+        "cost": "46135.29",
+        "condition": "very good"
+    },
+    {
+        "carId": 54,
+        "model": "G-Class",
+        "make": "Mercedes-Benz",
+        "year": 2003,
+        "VIN": "JTDKN3DP8F3127847",
+        "cost": "5654.12",
+        "condition": "fair"
+    },
+    {
+        "carId": 55,
+        "model": "Eldorado",
+        "make": "Cadillac",
+        "year": 1997,
+        "VIN": "1D4PT2GK1BW583304",
+        "cost": "35602.36",
+        "condition": "fair"
+    },
+    {
+        "carId": 56,
+        "model": "GTI",
+        "make": "Volkswagen",
+        "year": 2008,
+        "VIN": "JN1AZ4EHXDM613034",
+        "cost": "9813.14",
+        "condition": "very good"
+    },
+    {
+        "carId": 57,
+        "model": "Corvette",
+        "make": "Chevrolet",
+        "year": 1955,
+        "VIN": "YV1982BWXA1515204",
+        "cost": "31795.10",
+        "condition": "very good"
+    },
+    {
+        "carId": 58,
+        "model": "MX-6",
+        "make": "Mazda",
+        "year": 1990,
+        "VIN": "2T3BF4DV8BW428031",
+        "cost": "28366.39",
+        "condition": "fair"
+    },
+    {
+        "carId": 59,
+        "model": "E-Class",
+        "make": "Mercedes-Benz",
+        "year": 2001,
+        "VIN": "3C6JR6CT8DG862345",
+        "cost": "31473.45",
+        "condition": "good"
+    },
+    {
+        "carId": 60,
+        "model": "Safari",
+        "make": "GMC",
+        "year": 2004,
+        "VIN": "SCBFU7ZA6EC487359",
+        "cost": "36412.23",
+        "condition": "excellent"
+    },
+    {
+        "carId": 61,
+        "model": "GTI",
+        "make": "Volkswagen",
+        "year": 1995,
+        "VIN": "WAUYGAFCXCN385481",
+        "cost": "45460.30",
+        "condition": "good"
+    },
+    {
+        "carId": 62,
+        "model": "Ram 2500 Club",
+        "make": "Dodge",
+        "year": 1996,
+        "VIN": "WUADNAFG6AN839932",
+        "cost": "17383.92",
+        "condition": "poor"
+    },
+    {
+        "carId": 63,
+        "model": "LS Hybrid",
+        "make": "Lexus",
+        "year": 2010,
+        "VIN": "1FTEX1CM4CF034995",
+        "cost": "10380.78",
+        "condition": "excellent"
+    },
+    {
+        "carId": 64,
+        "model": "5 Series",
+        "make": "BMW",
+        "year": 1997,
+        "VIN": "SCFEBBEL7DG821142",
+        "cost": "8123.31",
+        "condition": "excellent"
+    },
+    {
+        "carId": 65,
+        "model": "G3",
+        "make": "Pontiac",
+        "year": 2010,
+        "VIN": "WBAYM1C55DD302173",
+        "cost": "26125.66",
+        "condition": "good"
+    },
+    {
+        "carId": 66,
+        "model": "Civic Si",
+        "make": "Honda",
+        "year": 2005,
+        "VIN": "JH4CL96918C279000",
+        "cost": "17240.93",
+        "condition": "poor"
+    },
+    {
+        "carId": 67,
+        "model": "1500",
+        "make": "Chevrolet",
+        "year": 1997,
+        "VIN": "KMHCM3AC0AU260822",
+        "cost": "20636.86",
+        "condition": "excellent"
+    },
+    {
+        "carId": 68,
+        "model": "Corvette",
+        "make": "Chevrolet",
+        "year": 1987,
+        "VIN": "WP0AB2A88CS669849",
+        "cost": "44063.37",
+        "condition": "good"
+    },
+    {
+        "carId": 69,
+        "model": "Mentor",
+        "make": "Kia",
+        "year": 1997,
+        "VIN": "WAUHF78P78A345136",
+        "cost": "17037.93",
+        "condition": "fair"
+    },
+    {
+        "carId": 70,
+        "model": "Yukon",
+        "make": "GMC",
+        "year": 1998,
+        "VIN": "WA1CGAFE6BD192404",
+        "cost": "33596.46",
+        "condition": "fair"
+    },
+    {
+        "carId": 71,
+        "model": "Ram Van 3500",
+        "make": "Dodge",
+        "year": 1998,
+        "VIN": "WDDEJ7KB3CA863695",
+        "cost": "21713.17",
+        "condition": "good"
+    },
+    {
+        "carId": 72,
+        "model": "911",
+        "make": "Porsche",
+        "year": 1993,
+        "VIN": "JM3TB2CA6D0191766",
+        "cost": "32616.57",
+        "condition": "excellent"
+    },
+    {
+        "carId": 73,
+        "model": "A3",
+        "make": "Audi",
+        "year": 2010,
+        "VIN": "WBAEK13456C657160",
+        "cost": "17460.54",
+        "condition": "excellent"
+    },
+    {
+        "carId": 74,
+        "model": "Civic",
+        "make": "Honda",
+        "year": 2004,
+        "VIN": "JTHBF5C29D5743894",
+        "cost": "24928.09",
+        "condition": "excellent"
+    },
+    {
+        "carId": 75,
+        "model": "Cougar",
+        "make": "Mercury",
+        "year": 1994,
+        "VIN": "WAUKF78E68A876932",
+        "cost": "47009.34",
+        "condition": "good"
+    },
+    {
+        "carId": 76,
+        "model": "TL",
+        "make": "Acura",
+        "year": 2000,
+        "VIN": "JH4CU4F69DC521564",
+        "cost": "41512.69",
+        "condition": "fair"
+    },
+    {
+        "carId": 77,
+        "model": "Leganza",
+        "make": "Daewoo",
+        "year": 2001,
+        "VIN": "1GD312CG1EF257523",
+        "cost": "20201.48",
+        "condition": "poor"
+    },
+    {
+        "carId": 78,
+        "model": "Forester",
+        "make": "Subaru",
+        "year": 1999,
+        "VIN": "JTEBU5JR6E5501231",
+        "cost": "9502.52",
+        "condition": "fair"
+    },
+    {
+        "carId": 79,
+        "model": "LeBaron",
+        "make": "Chrysler",
+        "year": 1995,
+        "VIN": "WBADS33422G300206",
+        "cost": "43565.56",
+        "condition": "very good"
+    },
+    {
+        "carId": 80,
+        "model": "E-Class",
+        "make": "Mercedes-Benz",
+        "year": 1992,
+        "VIN": "KNADH4A3XB6573494",
+        "cost": "25901.00",
+        "condition": "very good"
+    },
+    {
+        "carId": 81,
+        "model": "Lynx",
+        "make": "Mercury",
+        "year": 1987,
+        "VIN": "3VWPG3AG8AM704711",
+        "cost": "14120.80",
+        "condition": "poor"
+    },
+    {
+        "carId": 82,
+        "model": "Continental",
+        "make": "Lincoln",
+        "year": 1990,
+        "VIN": "5N1AR1NB0CC882330",
+        "cost": "29566.20",
+        "condition": "poor"
+    },
+    {
+        "carId": 83,
+        "model": "Silverado 2500",
+        "make": "Chevrolet",
+        "year": 2009,
+        "VIN": "WAUSH78E68A789834",
+        "cost": "30552.22",
+        "condition": "excellent"
+    },
+    {
+        "carId": 84,
+        "model": "H2",
+        "make": "Hummer",
+        "year": 2008,
+        "VIN": "JM3TB2MA7A0921033",
+        "cost": "37229.99",
+        "condition": "excellent"
+    },
+    {
+        "carId": 85,
+        "model": "CLK-Class",
+        "make": "Mercedes-Benz",
+        "year": 2002,
+        "VIN": "1G6DM1E37C0138382",
+        "cost": "49641.91",
+        "condition": "excellent"
+    },
+    {
+        "carId": 86,
+        "model": "Defender",
+        "make": "Land Rover",
+        "year": 1997,
+        "VIN": "1N4AA5APXEC741326",
+        "cost": "15254.04",
+        "condition": "poor"
+    },
+    {
+        "carId": 87,
+        "model": "Sonata",
+        "make": "Hyundai",
+        "year": 1992,
+        "VIN": "1FTEW1CW7AK395534",
+        "cost": "15707.53",
+        "condition": "poor"
+    },
+    {
+        "carId": 88,
+        "model": "1500",
+        "make": "Ram",
+        "year": 2011,
+        "VIN": "1G6AB5SX0D0809836",
+        "cost": "41466.54",
+        "condition": "good"
+    },
+    {
+        "carId": 89,
+        "model": "5 Series",
+        "make": "BMW",
+        "year": 2005,
+        "VIN": "1G6AH1RXXF0981954",
+        "cost": "46458.37",
+        "condition": "fair"
+    },
+    {
+        "carId": 90,
+        "model": "Passat",
+        "make": "Volkswagen",
+        "year": 1985,
+        "VIN": "1G6AB5RAXD0431610",
+        "cost": "28345.66",
+        "condition": "fair"
+    },
+    {
+        "carId": 91,
+        "model": "Jimmy",
+        "make": "GMC",
+        "year": 1994,
+        "VIN": "4JGCB2FB0AA436432",
+        "cost": "18075.30",
+        "condition": "good"
+    },
+    {
+        "carId": 92,
+        "model": "TL",
+        "make": "Acura",
+        "year": 2006,
+        "VIN": "WAUZL54B61N811908",
+        "cost": "46521.69",
+        "condition": "poor"
+    },
+    {
+        "carId": 93,
+        "model": "E-Class",
+        "make": "Mercedes-Benz",
+        "year": 1984,
+        "VIN": "WAUET48H96K852694",
+        "cost": "41135.64",
+        "condition": "poor"
+    },
+    {
+        "carId": 94,
+        "model": "Paseo",
+        "make": "Toyota",
+        "year": 1994,
+        "VIN": "KMHGH4JH6EU071055",
+        "cost": "37964.90",
+        "condition": "excellent"
+    },
+    {
+        "carId": 95,
+        "model": "Patriot",
+        "make": "Jeep",
+        "year": 2009,
+        "VIN": "WAUUL78E65A819594",
+        "cost": "20796.26",
+        "condition": "very good"
+    },
+    {
+        "carId": 96,
+        "model": "Commander",
+        "make": "Jeep",
+        "year": 2007,
+        "VIN": "5J6TF2H53DL423838",
+        "cost": "36928.43",
+        "condition": "excellent"
+    },
+    {
+        "carId": 97,
+        "model": "Sportvan G20",
+        "make": "Chevrolet",
+        "year": 1994,
+        "VIN": "5NPDH4AE7DH927386",
+        "cost": "41632.57",
+        "condition": "excellent"
+    },
+    {
+        "carId": 98,
+        "model": "Titan",
+        "make": "Nissan",
+        "year": 2012,
+        "VIN": "YV4952CZ9E1739686",
+        "cost": "14025.29",
+        "condition": "fair"
+    },
+    {
+        "carId": 99,
+        "model": "CLK-Class",
+        "make": "Mercedes-Benz",
+        "year": 2004,
+        "VIN": "WA1MKAFP2AA955135",
+        "cost": "7215.62",
+        "condition": "poor"
+    },
+    {
+        "carId": 100,
+        "model": "2500",
+        "make": "GMC",
+        "year": 1994,
+        "VIN": "WBADS33472G359235",
+        "cost": "16159.10",
+        "condition": "good"
+    },
+    {
+        "carId": 101,
+        "model": "Chevette",
+        "make": "Pontiac",
+        "year": 1987,
+        "VIN": "5N1AN0NU0AC736434",
+        "cost": "14494.49",
+        "condition": "fair"
+    },
+    {
+        "carId": 102,
+        "model": "F350",
+        "make": "Ford",
+        "year": 2009,
+        "VIN": "1G6DP57V790831099",
+        "cost": "21289.45",
+        "condition": "fair"
+    },
+    {
+        "carId": 103,
+        "model": "B-Series",
+        "make": "Mazda",
+        "year": 2007,
+        "VIN": "WAULV44E17N484461",
+        "cost": "11619.19",
+        "condition": "fair"
+    },
+    {
+        "carId": 104,
+        "model": "Prius v",
+        "make": "Toyota",
+        "year": 2012,
+        "VIN": "1G6DF8E57E0908023",
+        "cost": "23739.07",
+        "condition": "fair"
+    },
+    {
+        "carId": 105,
+        "model": "Suburban 1500",
+        "make": "Chevrolet",
+        "year": 1995,
+        "VIN": "WVGAV3AX6EW788933",
+        "cost": "20358.49",
+        "condition": "fair"
+    },
+    {
+        "carId": 106,
+        "model": "Dakota Club",
+        "make": "Dodge",
+        "year": 2001,
+        "VIN": "WBAEH134X6C275933",
+        "cost": "8358.54",
+        "condition": "very good"
+    },
+    {
+        "carId": 107,
+        "model": "STS",
+        "make": "Cadillac",
+        "year": 2009,
+        "VIN": "WBA3N7C52EF134508",
+        "cost": "40130.89",
+        "condition": "fair"
+    },
+    {
+        "carId": 108,
+        "model": "X5 M",
+        "make": "BMW",
+        "year": 2012,
+        "VIN": "1G6DK67V090178037",
+        "cost": "46276.17",
+        "condition": "good"
+    },
+    {
+        "carId": 109,
+        "model": "Viper",
+        "make": "Dodge",
+        "year": 2004,
+        "VIN": "5N1AR2MMXEC936812",
+        "cost": "22428.52",
+        "condition": "fair"
+    },
+    {
+        "carId": 110,
+        "model": "6000",
+        "make": "Pontiac",
+        "year": 1991,
+        "VIN": "4T1BD1FK8EU432262",
+        "cost": "22873.24",
+        "condition": "good"
+    },
+    {
+        "carId": 111,
+        "model": "Regal",
+        "make": "Buick",
+        "year": 1997,
+        "VIN": "2G4GV5GV3D9639897",
+        "cost": "7541.06",
+        "condition": "very good"
+    },
+    {
+        "carId": 112,
+        "model": "Esprit",
+        "make": "Lotus",
+        "year": 1996,
+        "VIN": "WBA3K5C54FK351970",
+        "cost": "6370.74",
+        "condition": "poor"
+    },
+    {
+        "carId": 113,
+        "model": "Jetta",
+        "make": "Volkswagen",
+        "year": 2009,
+        "VIN": "3C4PDDDG8FT467535",
+        "cost": "37065.26",
+        "condition": "very good"
+    },
+    {
+        "carId": 114,
+        "model": "Traverse",
+        "make": "Chevrolet",
+        "year": 2009,
+        "VIN": "3VW4T7AT6DM752800",
+        "cost": "38251.37",
+        "condition": "good"
+    },
+    {
+        "carId": 115,
+        "model": "Wrangler",
+        "make": "Jeep",
+        "year": 2002,
+        "VIN": "2G4WB52KX11062734",
+        "cost": "37555.73",
+        "condition": "excellent"
+    },
+    {
+        "carId": 116,
+        "model": "STS",
+        "make": "Cadillac",
+        "year": 2007,
+        "VIN": "1FTEW1C81AF324159",
+        "cost": "15822.25",
+        "condition": "good"
+    },
+    {
+        "carId": 117,
+        "model": "Rodeo Sport",
+        "make": "Isuzu",
+        "year": 2003,
+        "VIN": "WAUML44D72N954759",
+        "cost": "11663.00",
+        "condition": "very good"
+    },
+    {
+        "carId": 118,
+        "model": "Canyon",
+        "make": "GMC",
+        "year": 2010,
+        "VIN": "JTEBU4BF0BK906187",
+        "cost": "8198.27",
+        "condition": "poor"
+    },
+    {
+        "carId": 119,
+        "model": "Sierra 2500",
+        "make": "GMC",
+        "year": 2001,
+        "VIN": "WAUGGAFC2DN396052",
+        "cost": "5831.82",
+        "condition": "poor"
+    },
+    {
+        "carId": 120,
+        "model": "Magnum",
+        "make": "Dodge",
+        "year": 2006,
+        "VIN": "JN8AE2KP6E9726089",
+        "cost": "46871.14",
+        "condition": "fair"
+    },
+    {
+        "carId": 121,
+        "model": "Spirit",
+        "make": "Dodge",
+        "year": 1992,
+        "VIN": "1G6DP57V880191242",
+        "cost": "10009.50",
+        "condition": "fair"
+    },
+    {
+        "carId": 122,
+        "model": "90",
+        "make": "Audi",
+        "year": 1990,
+        "VIN": "JH4CU2F6XCC013137",
+        "cost": "15641.67",
+        "condition": "very good"
+    },
+    {
+        "carId": 123,
+        "model": "Miata MX-5",
+        "make": "Mazda",
+        "year": 2003,
+        "VIN": "2T1BURHE3EC063950",
+        "cost": "34751.79",
+        "condition": "excellent"
+    },
+    {
+        "carId": 124,
+        "model": "L-Series",
+        "make": "Saturn",
+        "year": 2002,
+        "VIN": "JTHBP5C27D5551760",
+        "cost": "41066.49",
+        "condition": "very good"
+    },
+    {
+        "carId": 125,
+        "model": "Explorer",
+        "make": "Ford",
+        "year": 1996,
+        "VIN": "1G6DP577360280649",
+        "cost": "21430.65",
+        "condition": "very good"
+    },
+    {
+        "carId": 126,
+        "model": "1 Series",
+        "make": "BMW",
+        "year": 2012,
+        "VIN": "JM3TB2MA4A0096830",
+        "cost": "9634.24",
+        "condition": "poor"
+    },
+    {
+        "carId": 127,
+        "model": "C30",
+        "make": "Volvo",
+        "year": 2011,
+        "VIN": "5J8TB3H30GL383259",
+        "cost": "11825.15",
+        "condition": "excellent"
+    },
+    {
+        "carId": 128,
+        "model": "Bonneville",
+        "make": "Pontiac",
+        "year": 1964,
+        "VIN": "WAUDF78E67A409842",
+        "cost": "49493.37",
+        "condition": "good"
+    },
+    {
+        "carId": 129,
+        "model": "Insight",
+        "make": "Honda",
+        "year": 2006,
+        "VIN": "JH4CU4F60DC370887",
+        "cost": "49288.29",
+        "condition": "fair"
+    },
+    {
+        "carId": 130,
+        "model": "Gallardo",
+        "make": "Lamborghini",
+        "year": 2005,
+        "VIN": "JH4KC1F31EC840705",
+        "cost": "37309.52",
+        "condition": "fair"
+    },
+    {
+        "carId": 131,
+        "model": "DeVille",
+        "make": "Cadillac",
+        "year": 2004,
+        "VIN": "KM8NU4CC3CU198931",
+        "cost": "16744.17",
+        "condition": "very good"
+    },
+    {
+        "carId": 132,
+        "model": "MX-5",
+        "make": "Mazda",
+        "year": 2007,
+        "VIN": "19UUA9F21AA984705",
+        "cost": "29317.95",
+        "condition": "very good"
+    },
+    {
+        "carId": 133,
+        "model": "IS",
+        "make": "Lexus",
+        "year": 2001,
+        "VIN": "5UXFG43578L132203",
+        "cost": "33061.83",
+        "condition": "very good"
+    },
+    {
+        "carId": 134,
+        "model": "Suburban 2500",
+        "make": "Chevrolet",
+        "year": 2000,
+        "VIN": "WAULV94E99N733976",
+        "cost": "30175.31",
+        "condition": "poor"
+    },
+    {
+        "carId": 135,
+        "model": "Tribute",
+        "make": "Mazda",
+        "year": 2003,
+        "VIN": "WBAUL73599V632596",
+        "cost": "36477.90",
+        "condition": "excellent"
+    },
+    {
+        "carId": 136,
+        "model": "Suburban 2500",
+        "make": "Chevrolet",
+        "year": 1997,
+        "VIN": "WAUHGBFC7DN673319",
+        "cost": "32255.85",
+        "condition": "poor"
+    },
+    {
+        "carId": 137,
+        "model": "Avanti",
+        "make": "Studebaker",
+        "year": 1963,
+        "VIN": "JN8AE2KP8C9877027",
+        "cost": "26888.24",
+        "condition": "fair"
+    },
+    {
+        "carId": 138,
+        "model": "Quest",
+        "make": "Nissan",
+        "year": 2007,
+        "VIN": "WBABS53481J638049",
+        "cost": "11130.68",
+        "condition": "fair"
+    },
+    {
+        "carId": 139,
+        "model": "M5",
+        "make": "BMW",
+        "year": 1992,
+        "VIN": "3VW8S7AT7FM543850",
+        "cost": "36385.27",
+        "condition": "very good"
+    },
+    {
+        "carId": 140,
+        "model": "928",
+        "make": "Porsche",
+        "year": 1989,
+        "VIN": "3C3CFFFH7ET953105",
+        "cost": "5330.87",
+        "condition": "excellent"
+    },
+    {
+        "carId": 141,
+        "model": "GX",
+        "make": "Lexus",
+        "year": 2004,
+        "VIN": "3N6CM0KN1FK607663",
+        "cost": "25378.57",
+        "condition": "poor"
+    },
+    {
+        "carId": 142,
+        "model": "XK",
+        "make": "Jaguar",
+        "year": 2007,
+        "VIN": "KMHTC6AD8DU357851",
+        "cost": "45017.58",
+        "condition": "excellent"
+    },
+    {
+        "carId": 143,
+        "model": "New Beetle",
+        "make": "Volkswagen",
+        "year": 2001,
+        "VIN": "WA1YD64B15N161595",
+        "cost": "30125.37",
+        "condition": "poor"
+    },
+    {
+        "carId": 144,
+        "model": "850",
+        "make": "Volvo",
+        "year": 1993,
+        "VIN": "JTHBP5C25A5326989",
+        "cost": "30505.84",
+        "condition": "excellent"
+    },
+    {
+        "carId": 145,
+        "model": "Defender 90",
+        "make": "Land Rover",
+        "year": 1995,
+        "VIN": "WAUBH74F37N910115",
+        "cost": "37200.61",
+        "condition": "fair"
+    },
+    {
+        "carId": 146,
+        "model": "DTS",
+        "make": "Cadillac",
+        "year": 2009,
+        "VIN": "1N6BF0KL0FN461528",
+        "cost": "17150.50",
+        "condition": "very good"
+    },
+    {
+        "carId": 147,
+        "model": "Yukon",
+        "make": "GMC",
+        "year": 2013,
+        "VIN": "1FMJU1J51AE853206",
+        "cost": "14178.85",
+        "condition": "very good"
+    },
+    {
+        "carId": 148,
+        "model": "Solara",
+        "make": "Toyota",
+        "year": 2006,
+        "VIN": "WA1VMAFE9CD957415",
+        "cost": "10698.42",
+        "condition": "very good"
+    },
+    {
+        "carId": 149,
+        "model": "Sierra 1500",
+        "make": "GMC",
+        "year": 2005,
+        "VIN": "5GAKRCED9BJ213779",
+        "cost": "28673.56",
+        "condition": "excellent"
+    },
+    {
+        "carId": 150,
+        "model": "Passport",
+        "make": "Honda",
+        "year": 1997,
+        "VIN": "1GYEE23A490901015",
+        "cost": "32434.46",
+        "condition": "poor"
+    },
+    {
+        "carId": 151,
+        "model": "Jetta",
+        "make": "Volkswagen",
+        "year": 1989,
+        "VIN": "19XFB4F20DE147338",
+        "cost": "15662.09",
+        "condition": "excellent"
+    },
+    {
+        "carId": 152,
+        "model": "Edge",
+        "make": "Ford",
+        "year": 2007,
+        "VIN": "WBADT33443G016316",
+        "cost": "30767.96",
+        "condition": "fair"
+    },
+    {
+        "carId": 153,
+        "model": "LR4",
+        "make": "Land Rover",
+        "year": 2011,
+        "VIN": "2G4GT5GX6F9837898",
+        "cost": "36433.38",
+        "condition": "fair"
+    },
+    {
+        "carId": 154,
+        "model": "Murciélago LP640",
+        "make": "Lamborghini",
+        "year": 2008,
+        "VIN": "WBA5A5C53FD713528",
+        "cost": "30071.20",
+        "condition": "excellent"
+    },
+    {
+        "carId": 155,
+        "model": "Freestar",
+        "make": "Ford",
+        "year": 2007,
+        "VIN": "WA1MKBFP5AA460787",
+        "cost": "5406.43",
+        "condition": "good"
+    },
+    {
+        "carId": 156,
+        "model": "Murano",
+        "make": "Nissan",
+        "year": 2011,
+        "VIN": "WBA3C3C56FK886171",
+        "cost": "28151.69",
+        "condition": "excellent"
+    },
+    {
+        "carId": 157,
+        "model": "Firebird Trans Am",
+        "make": "Pontiac",
+        "year": 1986,
+        "VIN": "1D4PU6GX5BW125314",
+        "cost": "48339.13",
+        "condition": "excellent"
+    },
+    {
+        "carId": 158,
+        "model": "2500",
+        "make": "GMC",
+        "year": 1992,
+        "VIN": "JM1GJ1T65F1534647",
+        "cost": "14129.02",
+        "condition": "poor"
+    },
+    {
+        "carId": 159,
+        "model": "1 Series",
+        "make": "BMW",
+        "year": 2012,
+        "VIN": "1GYS4SKJ0FR368188",
+        "cost": "43316.76",
+        "condition": "fair"
+    },
+    {
+        "carId": 160,
+        "model": "7 Series",
+        "make": "BMW",
+        "year": 2010,
+        "VIN": "ML32A3HJ9EH957954",
+        "cost": "18991.87",
+        "condition": "excellent"
+    },
+    {
+        "carId": 161,
+        "model": "S80",
+        "make": "Volvo",
+        "year": 2007,
+        "VIN": "5J8TB4H53GL274589",
+        "cost": "42405.51",
+        "condition": "very good"
+    },
+    {
+        "carId": 162,
+        "model": "G",
+        "make": "Infiniti",
+        "year": 2002,
+        "VIN": "WBAVL1C56DV390893",
+        "cost": "18046.56",
+        "condition": "fair"
+    },
+    {
+        "carId": 163,
+        "model": "Montero",
+        "make": "Mitsubishi",
+        "year": 2000,
+        "VIN": "WAUEL94F45N052190",
+        "cost": "44904.42",
+        "condition": "poor"
+    },
+    {
+        "carId": 164,
+        "model": "Express",
+        "make": "Chevrolet",
+        "year": 2011,
+        "VIN": "3VWAL7AJ6AM758335",
+        "cost": "40113.70",
+        "condition": "good"
+    },
+    {
+        "carId": 165,
+        "model": "GTO",
+        "make": "Pontiac",
+        "year": 1966,
+        "VIN": "WVGEG9BP1CD852012",
+        "cost": "46058.44",
+        "condition": "very good"
+    },
+    {
+        "carId": 166,
+        "model": "Acadia",
+        "make": "GMC",
+        "year": 2012,
+        "VIN": "WAUMR94E78N281081",
+        "cost": "35091.26",
+        "condition": "poor"
+    },
+    {
+        "carId": 167,
+        "model": "Bonneville",
+        "make": "Pontiac",
+        "year": 1994,
+        "VIN": "1G6KD57Y19U724102",
+        "cost": "42188.87",
+        "condition": "good"
+    },
+    {
+        "carId": 168,
+        "model": "Yukon",
+        "make": "GMC",
+        "year": 2003,
+        "VIN": "1G6DD67V980321639",
+        "cost": "8169.43",
+        "condition": "very good"
+    },
+    {
+        "carId": 169,
+        "model": "Cayman",
+        "make": "Porsche",
+        "year": 2012,
+        "VIN": "2C4JRGAG7ER405185",
+        "cost": "31860.84",
+        "condition": "good"
+    },
+    {
+        "carId": 170,
+        "model": "Brat",
+        "make": "Subaru",
+        "year": 1984,
+        "VIN": "WAUVT58E44A923931",
+        "cost": "44540.82",
+        "condition": "very good"
+    },
+    {
+        "carId": 171,
+        "model": "Crown Victoria",
+        "make": "Ford",
+        "year": 2004,
+        "VIN": "WP0CB2A8XFS939127",
+        "cost": "41033.23",
+        "condition": "good"
+    },
+    {
+        "carId": 172,
+        "model": "M3",
+        "make": "BMW",
+        "year": 2012,
+        "VIN": "1GD11ZCG7DF837504",
+        "cost": "13842.57",
+        "condition": "fair"
+    },
+    {
+        "carId": 173,
+        "model": "Yukon XL 2500",
+        "make": "GMC",
+        "year": 2012,
+        "VIN": "JTJBM7FX7C5226454",
+        "cost": "5452.66",
+        "condition": "fair"
+    },
+    {
+        "carId": 174,
+        "model": "Town & Country",
+        "make": "Chrysler",
+        "year": 1996,
+        "VIN": "SAJWA4DC4AM546752",
+        "cost": "40051.66",
+        "condition": "good"
+    },
+    {
+        "carId": 175,
+        "model": "Accord",
+        "make": "Honda",
+        "year": 2007,
+        "VIN": "5TFBY5F15CX377918",
+        "cost": "28840.82",
+        "condition": "poor"
+    },
+    {
+        "carId": 176,
+        "model": "370Z",
+        "make": "Nissan",
+        "year": 2011,
+        "VIN": "1G4GA5EC9BF528269",
+        "cost": "36098.70",
+        "condition": "poor"
+    },
+    {
+        "carId": 177,
+        "model": "ES",
+        "make": "Lexus",
+        "year": 2001,
+        "VIN": "JTDKDTB39D1596408",
+        "cost": "48582.99",
+        "condition": "poor"
+    },
+    {
+        "carId": 178,
+        "model": "del Sol",
+        "make": "Honda",
+        "year": 1994,
+        "VIN": "WBANE73527B375519",
+        "cost": "49474.16",
+        "condition": "poor"
+    },
+    {
+        "carId": 179,
+        "model": "DB9",
+        "make": "Aston Martin",
+        "year": 2012,
+        "VIN": "3D4PH6FV3AT910942",
+        "cost": "19294.03",
+        "condition": "excellent"
+    },
+    {
+        "carId": 180,
+        "model": "Malibu",
+        "make": "Chevrolet",
+        "year": 2003,
+        "VIN": "JN1AZ4FH1FM426847",
+        "cost": "5974.48",
+        "condition": "good"
+    },
+    {
+        "carId": 181,
+        "model": "TL",
+        "make": "Acura",
+        "year": 2004,
+        "VIN": "JM1NC2LFXF0581587",
+        "cost": "42303.03",
+        "condition": "excellent"
+    },
+    {
+        "carId": 182,
+        "model": "Esperante",
+        "make": "Panoz",
+        "year": 2008,
+        "VIN": "1C3CDZAB7EN670164",
+        "cost": "38202.31",
+        "condition": "good"
+    },
+    {
+        "carId": 183,
+        "model": "Mazda6",
+        "make": "Mazda",
+        "year": 2010,
+        "VIN": "5TFCW5F13BX701800",
+        "cost": "33968.57",
+        "condition": "poor"
+    },
+    {
+        "carId": 184,
+        "model": "G-Series G20",
+        "make": "Chevrolet",
+        "year": 1994,
+        "VIN": "WAUPL58E15A372948",
+        "cost": "22228.99",
+        "condition": "poor"
+    },
+    {
+        "carId": 185,
+        "model": "3 Series",
+        "make": "BMW",
+        "year": 2002,
+        "VIN": "1G6DA8EG0A0334746",
+        "cost": "33001.43",
+        "condition": "good"
+    },
+    {
+        "carId": 186,
+        "model": "H1",
+        "make": "Hummer",
+        "year": 2000,
+        "VIN": "JTHFE2C29B2495700",
+        "cost": "24433.77",
+        "condition": "excellent"
+    },
+    {
+        "carId": 187,
+        "model": "Sigma",
+        "make": "Mitsubishi",
+        "year": 1989,
+        "VIN": "JM1BL1H4XA1385639",
+        "cost": "33482.34",
+        "condition": "fair"
+    },
+    {
+        "carId": 188,
+        "model": "LeSabre",
+        "make": "Buick",
+        "year": 1989,
+        "VIN": "WAUBC48H65K419805",
+        "cost": "35097.28",
+        "condition": "good"
+    },
+    {
+        "carId": 189,
+        "model": "GTO",
+        "make": "Pontiac",
+        "year": 2005,
+        "VIN": "WVGAV3AX7EW139514",
+        "cost": "46739.72",
+        "condition": "fair"
+    },
+    {
+        "carId": 190,
+        "model": "Land Cruiser",
+        "make": "Toyota",
+        "year": 2013,
+        "VIN": "WBAUC9C52CV450760",
+        "cost": "6768.07",
+        "condition": "very good"
+    },
+    {
+        "carId": 191,
+        "model": "Legacy",
+        "make": "Subaru",
+        "year": 2006,
+        "VIN": "JTEBU5JR1F5995015",
+        "cost": "30896.87",
+        "condition": "very good"
+    },
+    {
+        "carId": 192,
+        "model": "G-Series 1500",
+        "make": "Chevrolet",
+        "year": 1998,
+        "VIN": "3D7TP2CT5BG830388",
+        "cost": "14543.41",
+        "condition": "excellent"
+    },
+    {
+        "carId": 193,
+        "model": "Exige",
+        "make": "Lotus",
+        "year": 2009,
+        "VIN": "JM1CR2W33A0996217",
+        "cost": "29716.58",
+        "condition": "poor"
+    },
+    {
+        "carId": 194,
+        "model": "Solara",
+        "make": "Toyota",
+        "year": 2001,
+        "VIN": "1FTEX1EW1AF826114",
+        "cost": "36876.97",
+        "condition": "good"
+    },
+    {
+        "carId": 195,
+        "model": "Land Cruiser",
+        "make": "Toyota",
+        "year": 2002,
+        "VIN": "5N1BA0NC2FN804073",
+        "cost": "47875.98",
+        "condition": "good"
+    },
+    {
+        "carId": 196,
+        "model": "Range Rover",
+        "make": "Land Rover",
+        "year": 2008,
+        "VIN": "1G6AG1RX5F0665641",
+        "cost": "43016.81",
+        "condition": "poor"
+    },
+    {
+        "carId": 197,
+        "model": "Prelude",
+        "make": "Honda",
+        "year": 1986,
+        "VIN": "WA1VFAFL4EA143878",
+        "cost": "10741.93",
+        "condition": "good"
+    },
+    {
+        "carId": 198,
+        "model": "TSX",
+        "make": "Acura",
+        "year": 2010,
+        "VIN": "3FA6P0PU0ER988618",
+        "cost": "39804.68",
+        "condition": "very good"
+    },
+    {
+        "carId": 199,
+        "model": "Lanos",
+        "make": "Daewoo",
+        "year": 2001,
+        "VIN": "JN8AZ1FY9EW255901",
+        "cost": "6321.56",
+        "condition": "good"
+    },
+    {
+        "carId": 200,
+        "model": "Monterey",
+        "make": "Mercury",
+        "year": 2006,
+        "VIN": "WBA3B1C54EF211305",
+        "cost": "22449.05",
+        "condition": "poor"
+    }
+]

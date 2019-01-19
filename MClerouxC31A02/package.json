@@ -1,0 +1,15 @@
+{
+  "name": "mclerouxc31a02",
+  "version": "1.0.0",
+  "description": "Part A of assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marissa Cleroux",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "*",
+    "pug": "*"
+  }
+}
