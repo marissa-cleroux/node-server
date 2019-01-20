@@ -12,7 +12,10 @@ const DATAROOT = 'MClerouxC31A02data';
 const ERROR_PATH = 'MClerouxC31A02root/errorpages';
 const TEMPLATEROOT = 'MClerouxC31A02root/templates';
 const DEFAULT_PAGE = 'index.html';
-const PORT = 9000;
+let PORT = process.env.PORT;
+if (PORT == null || PORT == "") {
+    PORT = 8000;
+}
 const EXTENSIONS = {
     '.html': 'text/html',
     '.css': 'text/css',
