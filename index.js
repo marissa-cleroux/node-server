@@ -7,10 +7,10 @@ const xml2js = require('xml2js').parseString;
 const pug = require('pug');
 const user = require('./user');
 
-const WEBROOT = '../MClerouxC31A02root/public';
-const DATAROOT = '../MClerouxC31A02data';
-const ERROR_PATH = '../MClerouxC31A02root/errorpages';
-const TEMPLATEROOT = '../MClerouxC31A02root/templates';
+const WEBROOT = 'MClerouxC31A02root/public';
+const DATAROOT = 'MClerouxC31A02data';
+const ERROR_PATH = 'MClerouxC31A02root/errorpages';
+const TEMPLATEROOT = 'MClerouxC31A02root/templates';
 const DEFAULT_PAGE = 'index.html';
 const PORT = 9000;
 const EXTENSIONS = {
