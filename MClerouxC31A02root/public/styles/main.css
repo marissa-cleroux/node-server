@@ -1,11 +1,13 @@
 body {
     font-family: calibri, verdana, sans-serif;
-    text-align: center;
+    width: 75%;
     color: #000000;
 }
 
+h1 { border-bottom: #000 2px solid; }
+
+h1, h3, a { text-align: center; }
+
 a { color: #000; }
 
-.lighter {
-    color: #696969;
-}
+.lighter { color: #696969; }
