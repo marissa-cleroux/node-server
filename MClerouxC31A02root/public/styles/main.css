@@ -1,6 +1,7 @@
 body {
-    font-family: calibri, verdana, sans-serif;
     width: 75%;
+    margin: auto;
+    font-family: calibri, verdana, sans-serif;
     color: #000000;
 }
 
