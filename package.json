@@ -11,5 +11,7 @@
   "dependencies": {
     "xml2js": "*",
     "pug": "*"
-  }
+  },
+  "engines": {
+	"node": "8.11.x"
 }
