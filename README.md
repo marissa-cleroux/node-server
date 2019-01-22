@@ -1,4 +1,7 @@
-## Assignment 02 - Node.js
+### [nodeServer](https://mcleroux-node-server.herokuapp.com)
+Completed in second year, first semester, Web Programming. Node server "from scratch." 
+
+#### Assignment 02 - Node.js
 
 **Completed by:** Marissa Cleroux
 
