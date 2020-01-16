@@ -1,4 +1,4 @@
-### [nodeServer](https://mcleroux-node-server.herokuapp.com)
+### nodeServer
 Completed in second year, first semester, Web Programming. Node server "from scratch." 
 
 #### Assignment 02 - Node.js
